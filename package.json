@@ -1,0 +1,20 @@
+{
+  "name": "mupli-lib-resolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mupli-lib-resolver.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mupli/mupli-lib-resolver.git"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "route-parser": "^0.0.5"
+  }
+}
